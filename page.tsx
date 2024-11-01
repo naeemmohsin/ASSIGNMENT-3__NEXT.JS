@@ -2,7 +2,7 @@ import Header from "../components/Header/Header";
 import Footer from "../components/Footer/Footer";
 import Hero from "../components/Hero/Hero";
 
-function ContactPage(){
+function ServicePage(){
     return(
     <div>
     <Header></Header>
@@ -11,4 +11,4 @@ function ContactPage(){
     </div>
     )
 }
-export default ContactPage;
+export default ServicePage;
